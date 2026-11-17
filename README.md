@@ -178,7 +178,7 @@ Desarrollé el proyecto completo, **back-end y front-end**:
 
 <div align="center">
 
-**Desarrollado por [EROSamhi2026](https://github.com/EROSamhi2026)**
+**Desarrollado por [Guillermo Navarrete](https://github.com/GuillermoNavarreteHer)** · [@GuillermoNavarreteHer](https://github.com/GuillermoNavarreteHer)
 
 <sub>Los logotipos pertenecen a sus respectivas instituciones y se usan solo para identificar a cada cliente dentro del sistema. Los datos de la demo son ficticios.</sub>
 
